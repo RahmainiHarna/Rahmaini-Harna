@@ -55,7 +55,7 @@
                 <p>Literasi berperan untuk mendukung individu berpartisipasi dalam kehidupan sosial, politik, dan ekonomi. Tingkat minat literasi yang tinggi akan memberikan masyarakat kemampuan untuk berkontribusi secara lebih aktif dan berdaya saing dalam berbagai aspek kehidupan. Dari sisi ekonomi, literasi berperan penting dalam pembangunan ekonomi. Masyarakat yang literat lebi mungkin memiliki peluang kerja yang lebih baik, dapat berwirausaha, dan berpartisipasi dalam ekonomi kreatif dan inovasi</p>
 
                 <p>Tingkat minat literasi di Indonesia masih memiliki potensi untuk ditingkatkan. Penting bagi pemerintah, lembaga pendidikan, dan masyarakat untuk bekerja sama dalam meningkatkan minat literasi. Langkah-langkah seperti meningkatkan aksesibilitas sumber literasi, meningkatkan kualitas pendidikan, dan mempromosikan budaya membaca yang positif dapat membantu meningkatkan minat literasi dan memberikan manfaat jangka panjang bagi individu dan bangsa secara keseluruhan. Dengan tingkat minat literasi yang lebih tinggi, Indonesia dapat meraih kemajuan yang lebih besar dalam berbagai bidang.</p>
-            </ol>
+            
         </td>    
     </tr>
 
