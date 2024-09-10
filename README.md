@@ -64,4 +64,9 @@
             <b>&copy;Aii</b>
         </td>
      </tr>
-<Table></Table>
+     </Table>
+     </body>
+<tr>
+    <p><h3><a href="Tugas 2.html" style="color: red" target="blank"> Tugas 2 Pemograman Web</a></h3></p>
+</tr>
+</html>
